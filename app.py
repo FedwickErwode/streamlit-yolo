@@ -118,7 +118,7 @@ def main():
     in Digital real-world architectural floor plans. It performs detection on multiple images, can count the number of labels and list of labels.
     This YOLO object Detection project can detect 80 objects(i.e classes)
     in image. The full list of the classes can be found 
-    [here](https://github.com/).""")
+    [here](https://raw.githubusercontent.com/Priyanshu88/newone-streamlit/main/labels/coconames.txt).""")
     st.sidebar.title("Select Activity")
     choice = st.sidebar.selectbox(
         "MODE", ("About", "Object Detection(Image)"))
